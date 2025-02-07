@@ -27,7 +27,7 @@
 <p align="left">
   <!-- Cypress -->
   <a href="https://www.cypress.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/cypress-logo.png" alt="Cypress" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" alt="Cypress" width="40" height="40"/> 
   </a> 
   <!-- Selenium -->
   <a href="https://www.selenium.dev/" target="_blank"> 
@@ -43,7 +43,7 @@
   </a>  
   <!-- Jira -->
   <a href="https://www.atlassian.com/software/jira" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Jira_Logo.svg" alt="Jira" width="40" height="40"/> 
+    <img src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" alt="Jira" width="40" height="40"/> 
   </a> 
   <!-- GitHub -->
   <a href="https://github.com/" target="_blank"> 
