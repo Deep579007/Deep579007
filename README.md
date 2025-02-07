@@ -16,7 +16,7 @@
 </p>
 
 - 🌱 I’m currently learning **Selenium Automation Tool**  
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://deep579007.github.io/)**  
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://gorgeous-chebakia-f31f42.netlify.app/)**  
 - 💬 Ask me about **Cypress, JavaScript, Manual Testing**  
 - 📫 How to reach me **deepakramdasgedam@gmail.com**  
 
