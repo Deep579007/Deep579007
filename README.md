@@ -41,9 +41,9 @@
   <a href="https://www.postman.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
   </a>  
-  <!-- Jira -->
+  <!-- Jira (Fixed Logo) -->
   <a href="https://www.atlassian.com/software/jira" target="_blank"> 
-    <img src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" alt="Jira" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/> 
   </a> 
   <!-- GitHub -->
   <a href="https://github.com/" target="_blank"> 
