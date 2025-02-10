@@ -18,7 +18,8 @@
 - 🌱 I’m currently learning **Selenium Automation Tool**  
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://deepakgedam.netlify.app/)**  
 - 💬 Ask me about **Cypress, JavaScript, Manual Testing**  
-- 📫 How to reach me **deepakgedam54@gmail.com**  
+- 📫 How to reach me **deepakgedam54@gmail.com**
+- 📫 How to reach me **LinkedIn - www.linkedin.com/in/deepak-g-180320230**  
 
 ---
 
